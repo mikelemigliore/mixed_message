@@ -53,4 +53,4 @@ random_quotes(famous_people_quotes);
 
 
 
-console.log("LAST CHANGES");
+console.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
