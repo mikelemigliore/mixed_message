@@ -50,3 +50,7 @@ console.log("If " + hero + " can defeat " + bad_guy + ",");
 console.log("then you can defeat " + adversity + ".\n");
 console.log("Get motivated:")
 random_quotes(famous_people_quotes);
+
+
+
+console.log("I just made changes");
